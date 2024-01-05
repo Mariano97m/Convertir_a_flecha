@@ -1,2 +1,2 @@
-# Convertir_a_flecha
+# Convertir a flecha
  Tarea funciones
